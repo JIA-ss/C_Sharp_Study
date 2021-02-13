@@ -1,0 +1,6 @@
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/IEnumerator_Study/IEnumerator_Study/bin/Debug/IEnumerator_Study.exe
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/IEnumerator_Study/IEnumerator_Study/bin/Debug/IEnumerator_Study.pdb
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/IEnumerator_Study/IEnumerator_Study/obj/Debug/IEnumerator_Study.csprojAssemblyReference.cache
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/IEnumerator_Study/IEnumerator_Study/obj/Debug/IEnumerator_Study.csproj.CoreCompileInputs.cache
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/IEnumerator_Study/IEnumerator_Study/obj/Debug/IEnumerator_Study.exe
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/IEnumerator_Study/IEnumerator_Study/obj/Debug/IEnumerator_Study.pdb

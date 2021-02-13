@@ -1,0 +1,15 @@
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/multi_state_study/bin/Debug/net5.0/multi_state_study.deps.json
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/multi_state_study/bin/Debug/net5.0/multi_state_study.runtimeconfig.json
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/multi_state_study/bin/Debug/net5.0/multi_state_study.runtimeconfig.dev.json
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/multi_state_study/bin/Debug/net5.0/multi_state_study.dll
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/multi_state_study/bin/Debug/net5.0/ref/multi_state_study.dll
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/multi_state_study/bin/Debug/net5.0/multi_state_study.pdb
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/multi_state_study/obj/Debug/net5.0/multi_state_study.csprojAssemblyReference.cache
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/multi_state_study/obj/Debug/net5.0/multi_state_study.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/multi_state_study/obj/Debug/net5.0/multi_state_study.AssemblyInfoInputs.cache
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/multi_state_study/obj/Debug/net5.0/multi_state_study.AssemblyInfo.cs
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/multi_state_study/obj/Debug/net5.0/multi_state_study.csproj.CoreCompileInputs.cache
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/multi_state_study/obj/Debug/net5.0/multi_state_study.dll
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/multi_state_study/obj/Debug/net5.0/ref/multi_state_study.dll
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/multi_state_study/obj/Debug/net5.0/multi_state_study.pdb
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/multi_state_study/obj/Debug/net5.0/multi_state_study.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/Reflection_Study/Reflection_Study/bin/Debug/Reflection_Study.exe
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/Reflection_Study/Reflection_Study/bin/Debug/Reflection_Study.pdb
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/Reflection_Study/Reflection_Study/obj/Debug/Reflection_Study.csprojAssemblyReference.cache
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/Reflection_Study/Reflection_Study/obj/Debug/Reflection_Study.csproj.CoreCompileInputs.cache
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/Reflection_Study/Reflection_Study/obj/Debug/Reflection_Study.exe
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/Reflection_Study/Reflection_Study/obj/Debug/Reflection_Study.pdb

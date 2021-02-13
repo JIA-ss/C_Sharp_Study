@@ -1,0 +1,15 @@
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/C_Sharp_test/bin/Debug/net5.0/C_Sharp_test.deps.json
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/C_Sharp_test/bin/Debug/net5.0/C_Sharp_test.runtimeconfig.json
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/C_Sharp_test/bin/Debug/net5.0/C_Sharp_test.runtimeconfig.dev.json
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/C_Sharp_test/bin/Debug/net5.0/C_Sharp_test.dll
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/C_Sharp_test/bin/Debug/net5.0/ref/C_Sharp_test.dll
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/C_Sharp_test/bin/Debug/net5.0/C_Sharp_test.pdb
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/C_Sharp_test/obj/Debug/net5.0/C_Sharp_test.csprojAssemblyReference.cache
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/C_Sharp_test/obj/Debug/net5.0/C_Sharp_test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/C_Sharp_test/obj/Debug/net5.0/C_Sharp_test.AssemblyInfoInputs.cache
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/C_Sharp_test/obj/Debug/net5.0/C_Sharp_test.AssemblyInfo.cs
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/C_Sharp_test/obj/Debug/net5.0/C_Sharp_test.csproj.CoreCompileInputs.cache
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/C_Sharp_test/obj/Debug/net5.0/C_Sharp_test.dll
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/C_Sharp_test/obj/Debug/net5.0/ref/C_Sharp_test.dll
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/C_Sharp_test/obj/Debug/net5.0/C_Sharp_test.pdb
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/C_Sharp_test/obj/Debug/net5.0/C_Sharp_test.genruntimeconfig.cache
