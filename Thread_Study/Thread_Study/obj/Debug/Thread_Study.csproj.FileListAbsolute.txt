@@ -1,0 +1,6 @@
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/Thread_Study/Thread_Study/bin/Debug/Thread_Study.exe
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/Thread_Study/Thread_Study/bin/Debug/Thread_Study.pdb
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/Thread_Study/Thread_Study/obj/Debug/Thread_Study.csprojAssemblyReference.cache
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/Thread_Study/Thread_Study/obj/Debug/Thread_Study.csproj.CoreCompileInputs.cache
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/Thread_Study/Thread_Study/obj/Debug/Thread_Study.exe
+/Users/ssjia/Documents/git_Proj/C_Sharp_Study/Thread_Study/Thread_Study/obj/Debug/Thread_Study.pdb
